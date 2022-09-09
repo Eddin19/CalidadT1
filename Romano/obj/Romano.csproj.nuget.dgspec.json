@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\Romano\\Romano.csproj": {}
+  },
+  "projects": {
+    "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\CalidadT1\\CalidadT1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\CalidadT1\\CalidadT1.csproj",
+        "projectName": "CalidadT1",
+        "projectPath": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\CalidadT1\\CalidadT1.csproj",
+        "packagesPath": "C:\\Users\\EDDIN SALAZAR\\.nuget\\packages\\",
+        "outputPath": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\CalidadT1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDDIN SALAZAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\Romano\\Romano.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\Romano\\Romano.csproj",
+        "projectName": "Romano",
+        "projectPath": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\Romano\\Romano.csproj",
+        "packagesPath": "C:\\Users\\EDDIN SALAZAR\\.nuget\\packages\\",
+        "outputPath": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\Romano\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDDIN SALAZAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\CalidadT1\\CalidadT1.csproj": {
+                "projectPath": "D:\\UPN22-2\\Calidad y Pruebas de Software\\Semana 4\\CalidadT1\\CalidadT1\\CalidadT1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
